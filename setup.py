@@ -4,7 +4,7 @@ from setuptools import setup
 setup(
     name='django-lightbox',
     version='2.7.1',
-    url='http://lokeshdhakar.com/projects/lightbox2/',
+    url='https://github.com/AleXeY989/django_lightbox.git',
     description='Django package for jquery-lightbox: A lightweight customizable lightbox plugin for jQuery',
     author='Lokesh Dhakar',
     maintainer='AleXeY989',
