@@ -23,5 +23,5 @@ setup(
         'Topic :: Utilities',
     ],
     packages=['django_lightbox'],
-    package_data={'django_lightbox': ['static/js/django_lightbox/*.js', 'static/css/django_lightbox/*.css', 'static/img/django_lightbox/*.png']}
+    package_data={'django_lightbox': ['static/django_lightbox/js/*.js', 'static/django_lightbox/css/*.css', 'static/django_lightbox/img/*.png']}
 )
